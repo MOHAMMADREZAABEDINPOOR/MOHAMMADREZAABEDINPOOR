@@ -7,7 +7,6 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=MOHAMMADREZAABEDINPOOR&label=Profile%20Views&color=00d2ff&style=for-the-badge)](https://github.com/MOHAMMADREZAABEDINPOOR)
-[![Telegram Channel](https://img.shields.io/badge/Telegram-PIMX_PASS-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PIMX_PASS)
 [![Portfolio](https://img.shields.io/badge/Live_Portfolio-PIMX-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pimx.pages.dev/)
 [![GitHub followers](https://img.shields.io/github/followers/MOHAMMADREZAABEDINPOOR?label=Followers&style=for-the-badge&color=blue)](https://github.com/MOHAMMADREZAABEDINPOOR)
 
