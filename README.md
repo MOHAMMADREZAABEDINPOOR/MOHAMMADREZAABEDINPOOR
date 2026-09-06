@@ -1,25 +1,27 @@
 <div align="center">
 
-# Hi there, I'm Mohammadreza Abedinpoor 👋⚡
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=180&section=header&text=Mohammadreza%20Abedinpoor&fontSize=36&fontAlignY=35&desc=%E2%9A%A1%20AI%20Vibe%20Coder%20%7C%20PIMX%20Ecosystem%20Architect&descFontSize=17&descAlignY=62" alt="Header" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Cloudflare+Edge+Engineer;Creator+of+the+PIMX+Ecosystem;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+Cloudflare;Web+Security+%26+High-Speed+Telegram+Bots" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=I+Vibe+Code+reality%2C+not+just+syntax.;Full-Stack+Architect+%26+Edge+Engineer;Creator+of+the+PIMX+Ecosystem;AI+Agents+%E2%80%A2+Prompt+Engineering+%E2%80%A2+Cloudflare" alt="Typing SVG" />
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/MOHAMMADREZAABEDINPOOR?label=Followers&style=social)](https://github.com/MOHAMMADREZAABEDINPOOR)
-[![GitHub stars](https://img.shields.io/github/stars/MOHAMMADREZAABEDINPOOR?style=social)](https://github.com/MOHAMMADREZAABEDINPOOR)
+[![Profile Views](https://komarev.com/ghpvc/?username=MOHAMMADREZAABEDINPOOR&label=Profile%20Views&color=00d2ff&style=for-the-badge)](https://github.com/MOHAMMADREZAABEDINPOOR)
 [![Telegram Channel](https://img.shields.io/badge/Telegram-PIMX_PASS-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PIMX_PASS)
-[![Portfolio](https://img.shields.io/badge/Portfolio-PIMX-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pimx.pages.dev/)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-PIMX-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pimx.pages.dev/)
+[![GitHub followers](https://img.shields.io/github/followers/MOHAMMADREZAABEDINPOOR?label=Followers&style=for-the-badge&color=blue)](https://github.com/MOHAMMADREZAABEDINPOOR)
 
 </div>
 
 ---
 
-### 🚀 About Me
+### ⚡ The Vibe Coding Philosophy
 
-- 💻 **Passionate Systems Architect & Full-Stack Engineer**: Specialized in scalable web infrastructure, high-throughput network diagnostic tooling, and modern UI engineering.
+> *"Traditional programming is typing out boilerplate; **Vibe Coding** is conducting an orchestra of AI models, intuition, and architectural vision to build entire ecosystems at the speed of thought."*
+
+- 🧠 **I don't just "program" — I Vibe Code**: Leveraging cutting-edge frontier AI models, high-leverage prompt choreography, and deep systems engineering to manifest scalable software from idea to production in hours instead of months.
 - 🌐 **Cloudflare Workers & Edge Specialist**: Deploying zero-latency serverless proxies, KV databases, and edge encryption suites.
-- 🤖 **Autonomous Agents & Bots**: Engineering intelligent Telegram clients, media streaming bots, and automation pipelines.
+- 🤖 **Autonomous Bot & Agent Architect**: Engineering intelligent Telegram clients, media streaming bots, and automation pipelines.
 - 🔐 **Privacy & Security Focused**: Authoring end-to-end cryptographic suites (AES-256-GCM), steganography tools, and censorship-resistant architectures.
 
 ---
@@ -45,7 +47,7 @@
 
 ---
 
-### 🛠️ Languages, Frameworks & Infrastructure
+### 🛠️ Languages, Tools & Infrastructure
 
 <div align="center">
 
@@ -63,17 +65,16 @@
 
 ---
 
-### 📊 GitHub Telemetry
+### 🔥 GitHub Streak & Telemetry
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=MOHAMMADREZAABEDINPOOR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMMADREZAABEDINPOOR&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com/?user=MOHAMMADREZAABEDINPOOR&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>⭐ Feel free to explore my repositories, open issues, or collaborate on open-source projects!</sub>
+  <sub>⚡ Vibe Coded with passion by <a href="https://github.com/MOHAMMADREZAABEDINPOOR">MOHAMMADREZA ABEDINPOOR</a>. Explore my repositories and leave a ⭐!</sub>
 </div>
