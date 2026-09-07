@@ -33,17 +33,17 @@
 | [**🛡️ PIMX_PASS_PANEL**](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_PASS_PANEL) | Serverless VPN management with WireGuard & OpenVPN on Cloudflare. | Cloudflare Workers, KV | 🛡️ v2.0 |
 | [**🌦️ PIMX_WEATHER**](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_WEATHER) | Weather suite with VSOP87 celestial trajectory calculations. | Vanilla JS, Open-Meteo | ☀️ Live |
 | [**🚀 PIMX_PASS_DNS**](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_PASS_DNS) | Modern DNS scanner, latency benchmark & Cloudflare D1 analytics. | TypeScript, Cloudflare D1 | 🌐 Live |
-| [**🤖 PIMX_PASS_BOT**](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_PASS_BOT) | Server & proxy testing Telegram bot with embedded Telegram WebApp. | Python, SQLite, Mini App | ⚡ Active |
+| [**🤖 PIMX_PASS_BOT**](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_PASS_BOT) | Server & proxy testing Telegram bot with embedded Telegram WebApp. | Python, SQLite, Mini App | 🛑 Inactive / Archived |
 | [**🎨 PIMX_MOJI**](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_MOJI) | Image-to-art studio with 152 creative rendering styles on Cloudflare. | Cloudflare Pages, Canvas | 🎨 Creative |
 | [**🔐 PIMX_WIDE**](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_WIDE) | Multilingual AES-256-GCM text & file encryption platform (23+ languages). | TypeScript, Web Crypto API | 🔒 Secure |
 | [**🖼️ PIMX_VEIL**](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_VEIL) | Military-grade image steganography & encrypted payload concealment suite. | TypeScript, LSB Steganography | 🤫 Secure |
-| [**⚡ PIMX_SONIC_BOT**](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_SONIC_BOT) | High-speed Telegram music & audio downloader with yt-dlp & auto cleanup. | Python, yt-dlp, Asyncio | 🎵 Streaming |
-| [**🎮 PIMX_PLAY_BOT**](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_PLAY_BOT) | Production Telegram app store, APK search & file delivery engine. | Python, Telegram Bot API | 📦 Active |
+| [**⚡ PIMX_SONIC_BOT**](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_SONIC_BOT) | High-speed Telegram music & audio downloader with yt-dlp & auto cleanup. | Python, yt-dlp, Asyncio | 🛑 Inactive / Archived |
+| [**🎮 PIMX_PLAY_BOT**](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_PLAY_BOT) | Production Telegram app store, APK search & file delivery engine. | Python, Telegram Bot API | 🛑 Inactive / Archived |
 | [**✨ 3D Portfolio**](https://github.com/MOHAMMADREZAABEDINPOOR/3d-animated-interactive-portfolio) | Immersive full-stack 3D scene with dynamic shaders & orbit physics. | Three.js, React Fiber, Framer | 🎨 WebGL |
 | [**⚡ PIMX_NODE**](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_NODE) | Distributed edge node management daemon for Cloudflare Workers. | TypeScript, Vite, Workers | ⚙️ Core |
 | [**🎫 PIMX_SUPPORT**](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_SUPPORT) | Customer support, live ticketing, and documentation gateway. | React, TypeScript, Tailwind | 💬 Portal |
 | [**🌐 PIMX_PORTAL**](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_PORTAL) | Central ecosystem dashboard connecting all PIMX tools and platforms. | React, TypeScript, Pages | 🧭 Gateway |
-| [**💳 MML Wallet**](https://github.com/MOHAMMADREZAABEDINPOOR/mml-wallet) | Asynchronous Telegram digital wallet with cloud keep-alive & visual DB viewer. | Python, aiosqlite, Flask | 💰 Active |
+| [**💳 MML Wallet**](https://github.com/MOHAMMADREZAABEDINPOOR/mml-wallet) | Asynchronous Telegram digital wallet with cloud keep-alive & visual DB viewer. | Python, aiosqlite, Flask | 🛑 Inactive / Archived |
 
 ---
 
