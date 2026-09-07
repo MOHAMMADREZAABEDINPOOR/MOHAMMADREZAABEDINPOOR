@@ -43,6 +43,7 @@
 | [**⚡ PIMX_NODE**](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_NODE) | Distributed edge node management daemon for Cloudflare Workers. | TypeScript, Vite, Workers | ⚙️ Core |
 | [**🎫 PIMX_SUPPORT**](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_SUPPORT) | Customer support, live ticketing, and documentation gateway. | React, TypeScript, Tailwind | 💬 Portal |
 | [**🌐 PIMX_PORTAL**](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_PORTAL) | Central ecosystem dashboard connecting all PIMX tools and platforms. | React, TypeScript, Pages | 🧭 Gateway |
+| [**💳 MML Wallet**](https://github.com/MOHAMMADREZAABEDINPOOR/mml-wallet) | Asynchronous Telegram digital wallet with cloud keep-alive & visual DB viewer. | Python, aiosqlite, Flask | 💰 Active |
 
 ---
 
