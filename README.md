@@ -1,83 +1,132 @@
 <div align="center">
 
-<img src="assets/readme/hero.gif" width="1200" alt="PIMX creative galaxy connecting independent projects" />
+<img src="assets/readme/profile-hero.gif" width="1200" alt="Mohammadreza Abedinpoor — three-dimensional PIMX lettering, an orbiting globe, AI assistant and keyboard" />
 
-**[🇬🇧 English](README.md) · [🇮🇷 فارسی](README.fa.md)**
+**[🌐 English](README.md) · [🇮🇷 فارسی](README.fa.md)**
 
-[🚀 PIMX](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX) · [🗂️ Repositories](https://github.com/MOHAMMADREZAABEDINPOOR?tab=repositories&sort=updated)
+[✨ Featured work](#featured) · [🚀 Current projects](#current) · [🧰 Toolkit](#toolkit) · [🤝 Connect](#connect)
 
 </div>
 
-# 👋 Mohammadreza Abedinpoor
+# 👋 Hey, I'm Mohammadreza Abedinpoor.
 
-I build **PIMX** — independent tools for AI, the web, Windows and Telegram. From fixing a keyboard layout to converting a file, planning a day or exploring a 3D world, I turn ideas into working tools.
+I create **PIMX**: independent tools for **AI, the web, Windows and Telegram**. A mistyped sentence, a file that needs converting, a research workflow or a satellite orbit can all become the starting point for a project. I care about useful software with a visual identity of its own.
 
-## ✨ Start exploring
+![PIMX project collection: 29 current projects, 58 public repositories and English/Persian documentation](assets/readme/profile-status.svg)
 
-| [![PIMX AGENT](assets/readme/card-PIMX_AGENT.png)](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_AGENT) | [![PIMX SWAP](assets/readme/card-PIMX_SWAP.png)](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_SWAP) |
+## 🌌 Three directions. One ecosystem.
+
+| [![Intelligence](assets/readme/lab-ai.gif)](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_AGENT)<br>**🧠 Intelligence**<br><sub>AI workspaces, conversations, research and useful artifacts.</sub> | [![Engineering](assets/readme/lab-build.gif)](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_SWAP)<br>**⌨️ Engineering**<br><sub>Browser tools, Windows utilities and applications for real workflows.</sub> | [![Exploration](assets/readme/lab-explore.gif)](https://github.com/MOHAMMADREZAABEDINPOOR/PIMXSATS)<br>**🛰️ Exploration**<br><sub>Orbital data, weather, visual experiments and worlds in three dimensions.</sub> |
+|:---:|:---:|:---:|
+
+<a id="featured"></a>
+
+## ✨ The project gallery
+
+Each card opens a different corner of PIMX. Follow it to the source, setup guide and project details.
+
+| [![PIMX AGENT — animated 3D project scene](assets/readme/project-PIMX_AGENT.gif)](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_AGENT)<br><sub>An AI workspace for conversations, research and document workflows.</sub> | [![PIMX SWAP — animated 3D project scene](assets/readme/project-PIMX_SWAP.gif)](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_SWAP)<br><sub>Correct mistyped keyboard layouts on Windows, locally.</sub> |
 |:---:|:---:|
-| [![PIMX DASH](assets/readme/card-PIMXDASH.png)](https://github.com/MOHAMMADREZAABEDINPOOR/PIMXDASH) | [![PIMX MORPH](assets/readme/card-PIMX_MORPH.png)](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_MORPH) |
-| [![PIMX SONIC · V2](assets/readme/card-PIMX_SONIC_BOT_V2.png)](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_SONIC_BOT_V2) | [![COMMERCE · LARAVEL](assets/readme/card-shop2.png)](https://github.com/MOHAMMADREZAABEDINPOOR/shop2) |
+| [![PIMX DASH — animated 3D project scene](assets/readme/project-PIMXDASH.gif)](https://github.com/MOHAMMADREZAABEDINPOOR/PIMXDASH)<br><sub>A new-tab workspace for bookmarks, search and focus.</sub> | [![PIMX MORPH — animated 3D project scene](assets/readme/project-PIMX_MORPH.gif)](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_MORPH)<br><sub>Convert images, PDFs, documents, audio and structured data.</sub> |
+| [![PIMX SONIC · V2 — animated 3D project scene](assets/readme/project-PIMX_SONIC_BOT_V2.gif)](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_SONIC_BOT_V2)<br><sub>A Supabase Edge Function for Telegram media-link workflows.</sub> | [![SHOP 02 / LARAVEL — animated 3D project scene](assets/readme/project-shop2.gif)](https://github.com/MOHAMMADREZAABEDINPOOR/shop2)<br><sub>A Laravel storefront with product variants, carts and role-based administration.</sub> |
 
-## 🚀 Current projects
+### ⌨️ Small details. Everyday impact.
 
-Published projects from my current workspace. Each repository includes a complete English guide and a Persian edition.
+One example: **[PIMX SWAP](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_SWAP)** turns `sghl` into `سلام` by correcting the keyboard layout locally on Windows. Small moments of friction can become useful tools.
 
-| Project | What it does | Area |
-|:---|:---|:---|
-| 🧠 [PIMX AGENT](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_AGENT) | A Next.js AI workspace with provider configuration, conversations, attachments, project/library organization, research tools and… | 🧠 AI & bots |
-| ⌨️ [PIMX SWAP](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_SWAP) | A local Windows keyboard-layout correction utility built with Rust, Tauri 2, React and TypeScript | 🧩 Web & tools |
-| 🧩 [PIMX DASH](https://github.com/MOHAMMADREZAABEDINPOOR/PIMXDASH) | A Manifest V3 Chrome/Chromium new-tab extension centered on bookmarks, fast search, focus tools and modular productivity widgets. | 🧩 Web & tools |
-| 🔄 [PIMX MORPH](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_MORPH) | A browser conversion workbench for images, PDFs, documents, audio and structured data | 🧩 Web & tools |
-| 🎵 [PIMX SONIC · V2](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_SONIC_BOT_V2) | A TypeScript/Deno Telegram media bot deployed as a Supabase Edge Function | 🧠 AI & bots |
-| 🛍️ [COMMERCE · LARAVEL](https://github.com/MOHAMMADREZAABEDINPOOR/shop2) | A Laravel 13 ecommerce application with an Alpine.js/Tailwind frontend, product variants, customer accounts, carts, orders and role-based… | 🛍️ Commerce |
-| 📉 [PIMX FAIL](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_FAIL) | A searchable archive of failed startups with company stories, failure lessons, technical blueprints and an optional Gemini analysis endpoint. | 🧩 Web & tools |
-| 🔗 [PIMX NODE](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_NODE) | A browser file-transfer workspace built around WebRTC data channels, a Node.js WebSocket signaling service and AES-GCM encryption of transferred… | 🧩 Web & tools |
-| 🎨 [PIMX MOJI](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_MOJI) | A browser image-to-character art studio with preset styles, a character picker, canvas processing, previews and conversion history. | 🧩 Web & tools |
-| 🫥 [PIMX VEIL](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_VEIL) | A browser workbench that encrypts a payload and appends it, together with metadata, to a carrier file | 🔐 Privacy & networks |
-| 🔐 [PIMX WIDE](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_WIDE) | A multilingual text/file encryption interface using browser Web Crypto, AES-256-GCM and password-derived keys, with local records and optional… | 🔐 Privacy & networks |
-| 🌐 [PIMX PASS DNS](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_PASS_DNS) | A bilingual DNS comparison interface with curated resolver sources, browser-based timing tests, result cards and an optional analytics backend. | 🧩 Web & tools |
-| 🛡️ [PIMX PASS PANEL](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_PASS_PANEL) | A Cloudflare Worker with a Persian management interface, KV-backed state, subscription generation and WebSocket-to-TCP proxy handling. | 🔐 Privacy & networks |
-| 🗓️ [PIMX PLANNER](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_PLANNER) | A personal planning workspace with daily tasks, goals, study tracking, grades, reminders, a diary and a chat section | 🧩 Web & tools |
-| 🎬 [PIMX ELTEX](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_ELTEX) | A Next.js publishing platform for AI-building episodes, code resources and project previews, with member accounts, comments and an administrative… | 🧠 AI & bots |
-| 🚀 [PIMX](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX) | The PIMX ecosystem website: a React/TypeScript showcase connecting independent web tools, AI projects and personal engineering work, with a Node… | 🧩 Web & tools |
-| 💛 [PIMX SUPPORT](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_SUPPORT) | A bilingual donation page for PIMX with cryptocurrency network cards, wallet addresses and receipt-style detail dialogs. | 🧩 Web & tools |
-| 👨‍💻 [MOHAMMADREZA ABEDINPOOR](https://github.com/MOHAMMADREZAABEDINPOOR/personal-website) | A static personal website with project sections, certificate assets, locale data, search-engine metadata and a service worker. | 🧩 Web & tools |
-| 🚢 [TRADE & CONNECTION](https://github.com/MOHAMMADREZAABEDINPOOR/Import-Export-Company) | A multi-page corporate website for an import/export company, implemented with HTML, CSS and JavaScript | 🧩 Web & tools |
-| 🌤️ [PIMX WEATHER](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_WEATHER) | A vanilla JavaScript weather dashboard with forecast views, localization, animated styling and astronomical/solar visualizations. | 🛰️ Space |
-| 📶 [PIMX PASS BOT](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_PASS_BOT) | A Telegram bot and companion web interface for finding, parsing and testing network/server configurations | 🧠 AI & bots |
-| 👛 [MML WALLET](https://github.com/MOHAMMADREZAABEDINPOOR/mml-wallet) | A Telegram wallet/collection bot with asynchronous SQLite storage, configurable administrative settings, a keep-alive helper and a Flask database… | 🧠 AI & bots |
-| 🎮 [PIMX PLAY BOT](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_PLAY_BOT) | A Python Telegram application-discovery bot with provider queries, result matching, interactive keyboards and temporary-file delivery helpers. | 🧠 AI & bots |
-| 🎧 [PIMX SONIC](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_SONIC_BOT) | A Python Telegram music/media bot using yt-dlp, asynchronous HTTP, inline controls and local persistence helpers. | 🧠 AI & bots |
-| 📱 [PIMX CHAT PWA](https://github.com/MOHAMMADREZAABEDINPOOR/pwa-chatbot) | A Node/Express AI-chat project with a companion pimxchat web directory, localized pages and SQLite persistence helpers. | 🧠 AI & bots |
-| 📬 [TEMP MAIL STUDIO](https://github.com/MOHAMMADREZAABEDINPOOR/email-generator) | A terminal tool for creating temporary inboxes through temp-mail.io, monitoring messages with background threads and extracting likely… | 🧠 AI & bots |
-| 🛒 [COMMERCE · DJANGO](https://github.com/MOHAMMADREZAABEDINPOOR/shop) | A Django ecommerce application with product variants, guest/customer carts, inventory-aware order creation, a local payment sandbox and an… | 🛍️ Commerce |
-| 📦 [COMMERCE · PHP](https://github.com/MOHAMMADREZAABEDINPOOR/shop3) | A framework-free PHP storefront with a small MVC/router layer, SQLite initialization, customer/admin pages and bilingual product content. | 🛍️ Commerce |
-| ✨ [GEMINI TELEGRAM BOT](https://github.com/MOHAMMADREZAABEDINPOOR/telegram-bot) | A compact Telegram long-polling bot that sends user text to the Gemini REST API and applies a system prompt loaded from a local text file. | 🧠 AI & bots |
+## 🛠️ From an idea to a tool
 
-## 🧰 My toolkit
+![A three-dimensional workflow: idea, design, code, refine](assets/readme/build-process.gif)
 
-![Technologies used across PIMX repositories](assets/readme/toolkit.svg)
-
-## 🌌 More to explore
-
-| Project | Purpose |
+| Step | What I care about |
 |:---|:---|
-| 🛰️ [PIMX SATS](https://github.com/MOHAMMADREZAABEDINPOOR/PIMXSATS) | An interactive satellite and solar-system explorer |
-| 📡 [PIMX PERSONAL](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_PERSONAL) | A React server-discovery dashboard with a Node backend for collecting, testing and listing proxy/server configurations |
-| 🌀 [PIMX PORTAL](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_PORTAL) | A bilingual visual directory for the PIMX ecosystem |
-| 🪐 [SPATIAL PORTFOLIO](https://github.com/MOHAMMADREZAABEDINPOOR/3d-animated-interactive-portfolio) | A personal portfolio pairing a React Three Fiber frontend with an Express project API |
+| 💡 Idea | Start with a problem or something worth exploring. |
+| 🎨 Design | Make the workflow and visual identity work together. |
+| 🧑‍💻 Build | Choose tools that fit the browser, desktop, bot or backend. |
+| 🔁 Refine | Improve behavior and make the project easier to understand. |
+
+## 📊 A footprint of building
+
+![Three-dimensional rendering of actual GitHub contribution activity](assets/readme/activity.gif)
+
+Actual GitHub contribution activity from October 8, 2025 to October 7, 2026. Each column represents a day; its height shows relative activity. This is a snapshot captured on **October 7, 2026**.
+
+
+<a id="toolkit"></a>
+
+## 🧰 Tools behind the projects
+
+These technologies appear in the repositories across this collection.
+
+| Area | Technologies | Explore |
+|:---|:---|:---|
+| 🎨 Interfaces | TypeScript · React · Next.js · Vite · Tailwind CSS | [PIMX DASH](https://github.com/MOHAMMADREZAABEDINPOOR/PIMXDASH) |
+| 🖥️ Desktop | Rust · Tauri · Windows APIs | [PIMX SWAP](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_SWAP) |
+| ⚙️ Services | Node.js · Express · Python · Django · PHP · Laravel | [SHOP 02 / LARAVEL](https://github.com/MOHAMMADREZAABEDINPOOR/shop2) |
+| ☁️ Edge & bots | Cloudflare Workers · Deno · Supabase · Telegram | [PIMX SONIC · V2](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_SONIC_BOT_V2) |
+| 🗄️ Data | SQLite · PostgreSQL · Cloudflare D1 | [PIMX PLANNER](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_PLANNER) |
+| 🪐 Browser capabilities | Three.js · Canvas · WebRTC · Web Crypto | [PIMX NODE](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_NODE) |
+
+<a id="current"></a>
+
+## 🚀 The current project directory
+
+Published projects from my current workspace. Each repository has an English guide and a complete Persian edition.
+
+| Project | What it does |
+|:---|:---|
+| 🧠 [PIMX AGENT](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_AGENT) | An AI workspace for conversations, research and document workflows. |
+| ⌨️ [PIMX SWAP](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_SWAP) | Correct mistyped keyboard layouts on Windows, locally. |
+| 🧩 [PIMX DASH](https://github.com/MOHAMMADREZAABEDINPOOR/PIMXDASH) | A new-tab workspace for bookmarks, search and focus. |
+| 🔄 [PIMX MORPH](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_MORPH) | Convert images, PDFs, documents, audio and structured data. |
+| 🎵 [PIMX SONIC · V2](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_SONIC_BOT_V2) | A Supabase Edge Function for Telegram media-link workflows. |
+| 🛍️ [SHOP 02 / LARAVEL](https://github.com/MOHAMMADREZAABEDINPOOR/shop2) | A Laravel storefront with product variants, carts and role-based administration. |
+| 📉 [PIMX FAIL](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_FAIL) | Discover failed startups, their stories and lessons. |
+| 🔗 [PIMX NODE](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_NODE) | Encrypted peer-to-peer file transfer through WebRTC. |
+| 🎨 [PIMX MOJI](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_MOJI) | Turn images into character art inside the browser. |
+| 🫥 [PIMX VEIL](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_VEIL) | Encrypt a payload and append it to a carrier file. |
+| 🔐 [PIMX WIDE](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_WIDE) | Browser-based text and file encryption with Web Crypto. |
+| 🌐 [PIMX PASS DNS](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_PASS_DNS) | Compare curated DNS resolvers with browser timing tests. |
+| 🛡️ [PIMX PASS PANEL](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_PASS_PANEL) | Manage a Cloudflare Worker proxy and subscriptions. |
+| 🗓️ [PIMX PLANNER](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_PLANNER) | A workspace for tasks, goals, study tracking and a diary. |
+| 🎬 [PIMX ELTEX](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_ELTEX) | Publish AI-building episodes, code and project previews. |
+| 🚀 [PIMX](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX) | The home of independent tools in the PIMX ecosystem. |
+| 💛 [PIMX SUPPORT](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_SUPPORT) | A bilingual donation page for supporting the ecosystem. |
+| 👨‍💻 [PERSONAL WEBSITE](https://github.com/MOHAMMADREZAABEDINPOOR/personal-website) | A personal website with projects, certificates and locale content. |
+| 🚢 [IMPORT / EXPORT](https://github.com/MOHAMMADREZAABEDINPOOR/Import-Export-Company) | A multi-page import/export company website. |
+| 🌤️ [PIMX WEATHER](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_WEATHER) | Weather, forecasts and astronomical visualizations. |
+| 📶 [PIMX PASS BOT](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_PASS_BOT) | Telegram tools for finding and testing network configurations. |
+| 👛 [MML WALLET](https://github.com/MOHAMMADREZAABEDINPOOR/mml-wallet) | A Telegram wallet workflow with SQLite persistence. |
+| 🎮 [PIMX PLAY BOT](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_PLAY_BOT) | Discover applications and browse results in Telegram. |
+| 🎧 [PIMX SONIC](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_SONIC_BOT) | A Python music and media bot for Telegram. |
+| 📱 [PIMX CHAT PWA](https://github.com/MOHAMMADREZAABEDINPOOR/pwa-chatbot) | A Node/Express chat workspace with localized web pages. |
+| 📬 [EMAIL GENERATOR](https://github.com/MOHAMMADREZAABEDINPOOR/email-generator) | Create temporary inboxes, watch messages and extract codes. |
+| 🛒 [SHOP / DJANGO](https://github.com/MOHAMMADREZAABEDINPOOR/shop) | A Django storefront with carts, stock-aware orders and a payment sandbox. |
+| 📦 [SHOP 03 / PHP](https://github.com/MOHAMMADREZAABEDINPOOR/shop3) | A compact PHP/SQLite storefront with customer and admin pages. |
+| ✨ [TELEGRAM / GEMINI](https://github.com/MOHAMMADREZAABEDINPOOR/telegram-bot) | A compact Telegram assistant connected to Gemini. |
+
+<details>
+<summary>🌠 More corners of the PIMX universe</summary>
+
+| Project | Focus |
+|:---|:---|
+| 🛰️ [PIMX SATS](https://github.com/MOHAMMADREZAABEDINPOOR/PIMXSATS) | An interactive satellite and solar-system explorer. A Three.js globe, satellite.js orbit propagation and pass predictions turn orbital data into a visual workspace. |
+| 📡 [PIMX PERSONAL](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_PERSONAL) | A React server-discovery dashboard with a Node backend for collecting, testing and listing proxy/server configurations. The source is a network tool despite the repository name. |
+| 🌀 [PIMX PORTAL](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_PORTAL) | A bilingual visual directory for the PIMX ecosystem. Distinct project posters lead visitors to individual tools and a support destination. |
+| 🪐 [SPATIAL PORTFOLIO](https://github.com/MOHAMMADREZAABEDINPOOR/3d-animated-interactive-portfolio) | A personal portfolio pairing a React Three Fiber frontend with an Express project API. Three.js scenes and Framer Motion transitions frame the project showcase. |
 | 🏙️ [TEHRAN](https://github.com/MOHAMMADREZAABEDINPOOR/Tehran) | A static cultural/media website with multiple editorial pages, embedded video content and a dark visual theme. |
 | 🤖 [PIMX EDGE BOT](https://github.com/MOHAMMADREZAABEDINPOOR/BOT) | A Telegram AI assistant implemented as a Cloudflare Worker, with provider routing, chat memory, reminders and per-user timezone helpers. |
 | 🏡 [PROPERTY DISCOVERY BOT](https://github.com/MOHAMMADREZAABEDINPOOR/telegram-web-scraping-bot) | A collection of Telegram and agent scripts for property-listing discovery, with Agno/Gemini integration and Scrapling extraction helpers. |
 | 💬 [PIMX CHAT · DJANGO](https://github.com/MOHAMMADREZAABEDINPOOR/chat) | A Django chat application with account management, persisted conversations, static assets and an AI response integration. |
 
+</details>
+
 <details>
-<summary>🎓 Learning archive & earlier experiments</summary>
+<summary>🎓 Earlier experiments & the learning archive</summary>
 
-These repositories document my learning journey. The current projects are featured above.
+The earlier chapters: Python, C++, databases, web exercises and Git course work.
 
-| Repository | Subject |
+| Repository | Focus |
 |:---|:---|
 | 🎲 [gussing-number](https://github.com/MOHAMMADREZAABEDINPOOR/gussing-number) | A console guessing game that chooses a number from 1 to 10 and records the best attempt count during the current session. |
 | 🎯 [gussing-number-with-js](https://github.com/MOHAMMADREZAABEDINPOOR/gussing-number-with-js) | A small browser game with a random answer in the range 0–999, higher/lower hints and ten incorrect-guess opportunities. |
@@ -102,14 +151,22 @@ These repositories document my learning journey. The current projects are featur
 
 </details>
 
-## 🤝 Connect & contribute
+<a id="connect"></a>
 
-Open an issue in the relevant repository to share an idea or report a bug. To support the ecosystem, visit [PIMX SUPPORT](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_SUPPORT).
+## 🤝 Build something better together
 
----
+Have an idea, feedback or a reproducible bug? Open an issue in the relevant repository. You can also explore PIMX SUPPORT to support the ecosystem.
+
+| Connect | Where |
+|:---|:---|
+| 💻 GitHub | [@MOHAMMADREZAABEDINPOOR](https://github.com/MOHAMMADREZAABEDINPOOR) |
+| 🚀 PIMX | [Ecosystem](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX) |
+| 💛 Support | [PIMX SUPPORT](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_SUPPORT) |
 
 <div align="center">
 
-**⚡ Build. Learn. Refine.** · [English](README.md) · [فارسی](README.fa.md) · [Static artwork](assets/readme/hero.png)
+[![Build. Learn. Refine. — animated three-dimensional PIMX signature](assets/readme/signature.gif)](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX)
+
+**[English](README.md) · [فارسی](README.fa.md)** · [Static poster](assets/readme/profile-hero.png)
 
 </div>
