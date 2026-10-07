@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/readme/profile-hero.gif" width="1200" alt="Mohammadreza Abedinpoor — three-dimensional PIMX lettering, an orbiting globe, AI assistant and keyboard" />
+<img src="assets/readme/profile-hero.gif" width="1200" height="540" alt="Mohammadreza Abedinpoor — three-dimensional PIMX lettering, an orbiting globe, AI assistant and keyboard" />
 
 **[🌐 English](README.md) · [🇮🇷 فارسی](README.fa.md)**
 
@@ -18,7 +18,7 @@
 
 ## 🌌 سه مسیر، یک مجموعه
 
-| [![هوشمندی](assets/readme/lab-ai.gif)](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_AGENT)<br>**🧠 هوشمندی**<br><sub>فضاهای کاری هوش مصنوعی، گفتگو، پژوهش و خروجی کاربردی.</sub> | [![ساخت ابزار](assets/readme/lab-build.gif)](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_SWAP)<br>**⌨️ ساخت ابزار**<br><sub>ابزار مرورگر، برنامه ویندوز و محصولاتی برای کارهای روزمره.</sub> | [![کاوش](assets/readme/lab-explore.gif)](https://github.com/MOHAMMADREZAABEDINPOOR/PIMXSATS)<br>**🛰️ کاوش**<br><sub>داده مداری، آب‌وهوا، تجربه‌های دیداری و جهان‌های سه‌بعدی.</sub> |
+| <a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_AGENT"><img src="assets/readme/lab-ai.gif" width="260" height="182" alt="هوشمندی" /></a><br>**🧠 هوشمندی**<br><sub>فضاهای کاری هوش مصنوعی، گفتگو، پژوهش و خروجی کاربردی.</sub> | <a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_SWAP"><img src="assets/readme/lab-build.gif" width="260" height="182" alt="ساخت ابزار" /></a><br>**⌨️ ساخت ابزار**<br><sub>ابزار مرورگر، برنامه ویندوز و محصولاتی برای کارهای روزمره.</sub> | <a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMXSATS"><img src="assets/readme/lab-explore.gif" width="260" height="182" alt="کاوش" /></a><br>**🛰️ کاوش**<br><sub>داده مداری، آب‌وهوا، تجربه‌های دیداری و جهان‌های سه‌بعدی.</sub> |
 |:---:|:---:|:---:|
 
 <a id="featured"></a>
@@ -27,10 +27,10 @@
 
 هر کارت بخشی از جهان PIMX است؛ روی آن کلیک کن تا کد، راهنمای اجرا و جزئیات پروژه را ببینی.
 
-| [![PIMX AGENT — animated 3D project scene](assets/readme/project-PIMX_AGENT.gif)](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_AGENT)<br><sub>فضای کاری هوش مصنوعی برای گفتگو، پژوهش و کار با اسناد.</sub> | [![PIMX SWAP — animated 3D project scene](assets/readme/project-PIMX_SWAP.gif)](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_SWAP)<br><sub>اصلاح محلی متن تایپ‌شده با چیدمان اشتباه در ویندوز.</sub> |
+| <a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_AGENT"><img src="assets/readme/project-PIMX_AGENT.gif" width="400" height="280" alt="PIMX AGENT — animated 3D project scene" /></a><br><sub>فضای کاری هوش مصنوعی برای گفتگو، پژوهش و کار با اسناد.</sub> | <a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_SWAP"><img src="assets/readme/project-PIMX_SWAP.gif" width="400" height="280" alt="PIMX SWAP — animated 3D project scene" /></a><br><sub>اصلاح محلی متن تایپ‌شده با چیدمان اشتباه در ویندوز.</sub> |
 |:---:|:---:|
-| [![PIMX DASH — animated 3D project scene](assets/readme/project-PIMXDASH.gif)](https://github.com/MOHAMMADREZAABEDINPOOR/PIMXDASH)<br><sub>فضای کاری تب جدید برای نشانک‌ها، جست‌وجو و تمرکز.</sub> | [![PIMX MORPH — animated 3D project scene](assets/readme/project-PIMX_MORPH.gif)](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_MORPH)<br><sub>تبدیل تصویر، PDF، سند، صوت و داده ساخت‌یافته.</sub> |
-| [![PIMX SONIC · V2 — animated 3D project scene](assets/readme/project-PIMX_SONIC_BOT_V2.gif)](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_SONIC_BOT_V2)<br><sub>ربات دریافت رسانه در تلگرام با Supabase Edge Function.</sub> | [![SHOP 02 / LARAVEL — animated 3D project scene](assets/readme/project-shop2.gif)](https://github.com/MOHAMMADREZAABEDINPOOR/shop2)<br><sub>فروشگاه Laravel با تنوع محصول، سبد خرید و مدیریت نقش‌ها.</sub> |
+| <a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMXDASH"><img src="assets/readme/project-PIMXDASH.gif" width="400" height="280" alt="PIMX DASH — animated 3D project scene" /></a><br><sub>فضای کاری تب جدید برای نشانک‌ها، جست‌وجو و تمرکز.</sub> | <a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_MORPH"><img src="assets/readme/project-PIMX_MORPH.gif" width="400" height="280" alt="PIMX MORPH — animated 3D project scene" /></a><br><sub>تبدیل تصویر، PDF، سند، صوت و داده ساخت‌یافته.</sub> |
+| <a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_SONIC_BOT_V2"><img src="assets/readme/project-PIMX_SONIC_BOT_V2.gif" width="400" height="280" alt="PIMX SONIC · V2 — animated 3D project scene" /></a><br><sub>ربات دریافت رسانه در تلگرام با Supabase Edge Function.</sub> | <a href="https://github.com/MOHAMMADREZAABEDINPOOR/shop2"><img src="assets/readme/project-shop2.gif" width="400" height="280" alt="SHOP 02 / LARAVEL — animated 3D project scene" /></a><br><sub>فروشگاه Laravel با تنوع محصول، سبد خرید و مدیریت نقش‌ها.</sub> |
 
 ### ⌨️ جزئیات کوچک، اثر روزمره
 
@@ -38,7 +38,7 @@
 
 ## 🛠️ از ایده تا ساخت
 
-![A three-dimensional workflow: idea, design, code, refine](assets/readme/build-process.gif)
+<img src="assets/readme/build-process.gif" width="1200" height="340" alt="A three-dimensional workflow: idea, design, code, refine" />
 
 | مرحله | چیزی که برایم مهم است |
 |:---|:---|
@@ -49,7 +49,7 @@
 
 ## 📊 ردپای ساختن
 
-![Three-dimensional rendering of actual GitHub contribution activity](assets/readme/activity.gif)
+<img src="assets/readme/activity.gif" width="1200" height="340" alt="Three-dimensional rendering of actual GitHub contribution activity" />
 
 فعالیت عمومی واقعی این حساب از ۸ اکتبر ۲۰۲۵ تا ۷ اکتبر ۲۰۲۶؛ هر ستون یک روز است و ارتفاع آن شدت فعالیت را نشان می‌دهد. این تصویر یک snapshot در تاریخ **۷ اکتبر ۲۰۲۶** است.
 
@@ -167,7 +167,7 @@
 
 <div align="center">
 
-[![Build. Learn. Refine. — animated three-dimensional PIMX signature](assets/readme/signature.gif)](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX)
+<a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX"><img src="assets/readme/signature.gif" width="1200" height="250" alt="Build. Learn. Refine. — animated three-dimensional PIMX signature" /></a>
 
 **[English](README.md) · [فارسی](README.fa.md)** · [پوستر ثابت](assets/readme/profile-hero.png)
 

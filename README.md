@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/readme/profile-hero.gif" width="1200" alt="Mohammadreza Abedinpoor — three-dimensional PIMX lettering, an orbiting globe, AI assistant and keyboard" />
+<img src="assets/readme/profile-hero.gif" width="1200" height="540" alt="Mohammadreza Abedinpoor — three-dimensional PIMX lettering, an orbiting globe, AI assistant and keyboard" />
 
 **[🌐 English](README.md) · [🇮🇷 فارسی](README.fa.md)**
 
@@ -16,7 +16,7 @@ I create **PIMX**: independent tools for **AI, the web, Windows and Telegram**. 
 
 ## 🌌 Three directions. One ecosystem.
 
-| [![Intelligence](assets/readme/lab-ai.gif)](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_AGENT)<br>**🧠 Intelligence**<br><sub>AI workspaces, conversations, research and useful artifacts.</sub> | [![Engineering](assets/readme/lab-build.gif)](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_SWAP)<br>**⌨️ Engineering**<br><sub>Browser tools, Windows utilities and applications for real workflows.</sub> | [![Exploration](assets/readme/lab-explore.gif)](https://github.com/MOHAMMADREZAABEDINPOOR/PIMXSATS)<br>**🛰️ Exploration**<br><sub>Orbital data, weather, visual experiments and worlds in three dimensions.</sub> |
+| <a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_AGENT"><img src="assets/readme/lab-ai.gif" width="260" height="182" alt="Intelligence" /></a><br>**🧠 Intelligence**<br><sub>AI workspaces, conversations, research and useful artifacts.</sub> | <a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_SWAP"><img src="assets/readme/lab-build.gif" width="260" height="182" alt="Engineering" /></a><br>**⌨️ Engineering**<br><sub>Browser tools, Windows utilities and applications for real workflows.</sub> | <a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMXSATS"><img src="assets/readme/lab-explore.gif" width="260" height="182" alt="Exploration" /></a><br>**🛰️ Exploration**<br><sub>Orbital data, weather, visual experiments and worlds in three dimensions.</sub> |
 |:---:|:---:|:---:|
 
 <a id="featured"></a>
@@ -25,10 +25,10 @@ I create **PIMX**: independent tools for **AI, the web, Windows and Telegram**. 
 
 Each card opens a different corner of PIMX. Follow it to the source, setup guide and project details.
 
-| [![PIMX AGENT — animated 3D project scene](assets/readme/project-PIMX_AGENT.gif)](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_AGENT)<br><sub>An AI workspace for conversations, research and document workflows.</sub> | [![PIMX SWAP — animated 3D project scene](assets/readme/project-PIMX_SWAP.gif)](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_SWAP)<br><sub>Correct mistyped keyboard layouts on Windows, locally.</sub> |
+| <a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_AGENT"><img src="assets/readme/project-PIMX_AGENT.gif" width="400" height="280" alt="PIMX AGENT — animated 3D project scene" /></a><br><sub>An AI workspace for conversations, research and document workflows.</sub> | <a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_SWAP"><img src="assets/readme/project-PIMX_SWAP.gif" width="400" height="280" alt="PIMX SWAP — animated 3D project scene" /></a><br><sub>Correct mistyped keyboard layouts on Windows, locally.</sub> |
 |:---:|:---:|
-| [![PIMX DASH — animated 3D project scene](assets/readme/project-PIMXDASH.gif)](https://github.com/MOHAMMADREZAABEDINPOOR/PIMXDASH)<br><sub>A new-tab workspace for bookmarks, search and focus.</sub> | [![PIMX MORPH — animated 3D project scene](assets/readme/project-PIMX_MORPH.gif)](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_MORPH)<br><sub>Convert images, PDFs, documents, audio and structured data.</sub> |
-| [![PIMX SONIC · V2 — animated 3D project scene](assets/readme/project-PIMX_SONIC_BOT_V2.gif)](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_SONIC_BOT_V2)<br><sub>A Supabase Edge Function for Telegram media-link workflows.</sub> | [![SHOP 02 / LARAVEL — animated 3D project scene](assets/readme/project-shop2.gif)](https://github.com/MOHAMMADREZAABEDINPOOR/shop2)<br><sub>A Laravel storefront with product variants, carts and role-based administration.</sub> |
+| <a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMXDASH"><img src="assets/readme/project-PIMXDASH.gif" width="400" height="280" alt="PIMX DASH — animated 3D project scene" /></a><br><sub>A new-tab workspace for bookmarks, search and focus.</sub> | <a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_MORPH"><img src="assets/readme/project-PIMX_MORPH.gif" width="400" height="280" alt="PIMX MORPH — animated 3D project scene" /></a><br><sub>Convert images, PDFs, documents, audio and structured data.</sub> |
+| <a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_SONIC_BOT_V2"><img src="assets/readme/project-PIMX_SONIC_BOT_V2.gif" width="400" height="280" alt="PIMX SONIC · V2 — animated 3D project scene" /></a><br><sub>A Supabase Edge Function for Telegram media-link workflows.</sub> | <a href="https://github.com/MOHAMMADREZAABEDINPOOR/shop2"><img src="assets/readme/project-shop2.gif" width="400" height="280" alt="SHOP 02 / LARAVEL — animated 3D project scene" /></a><br><sub>A Laravel storefront with product variants, carts and role-based administration.</sub> |
 
 ### ⌨️ Small details. Everyday impact.
 
@@ -36,7 +36,7 @@ One example: **[PIMX SWAP](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_SWAP)*
 
 ## 🛠️ From an idea to a tool
 
-![A three-dimensional workflow: idea, design, code, refine](assets/readme/build-process.gif)
+<img src="assets/readme/build-process.gif" width="1200" height="340" alt="A three-dimensional workflow: idea, design, code, refine" />
 
 | Step | What I care about |
 |:---|:---|
@@ -47,7 +47,7 @@ One example: **[PIMX SWAP](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_SWAP)*
 
 ## 📊 A footprint of building
 
-![Three-dimensional rendering of actual GitHub contribution activity](assets/readme/activity.gif)
+<img src="assets/readme/activity.gif" width="1200" height="340" alt="Three-dimensional rendering of actual GitHub contribution activity" />
 
 Actual GitHub contribution activity from October 8, 2025 to October 7, 2026. Each column represents a day; its height shows relative activity. This is a snapshot captured on **October 7, 2026**.
 
@@ -165,7 +165,7 @@ Have an idea, feedback or a reproducible bug? Open an issue in the relevant repo
 
 <div align="center">
 
-[![Build. Learn. Refine. — animated three-dimensional PIMX signature](assets/readme/signature.gif)](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX)
+<a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX"><img src="assets/readme/signature.gif" width="1200" height="250" alt="Build. Learn. Refine. — animated three-dimensional PIMX signature" /></a>
 
 **[English](README.md) · [فارسی](README.fa.md)** · [Static poster](assets/readme/profile-hero.png)
 
