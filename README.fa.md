@@ -17,7 +17,7 @@
 
 سازندهٔ **PIMX**؛ ایده‌هایم را به ابزارهایی برای **هوش مصنوعی، وب، ویندوز و تلگرام** تبدیل می‌کنم. از اصلاح یک متن با چیدمان اشتباه تا ساخت یک محیط پژوهش یا نمایش مدار ماهواره، دوست دارم نرم‌افزار هم کاربرد داشته باشد و هم شخصیت.
 
-![PIMX project collection: 31 current projects, 60 public repositories and English/Persian documentation](assets/readme/profile-status.svg)
+![PIMX project collection: 32 current projects, 61 public repositories and English/Persian documentation](assets/readme/profile-status.svg)
 
 ## 🌌 سه مسیر، یک مجموعه
 
@@ -37,7 +37,7 @@
 
 ## ✨ پروژه‌های منتخب
 
-**۱۳ وب‌سایت پورتفولیوی من.** هر کارت تصویر سه‌بعدی متحرک خودش را دارد و پروژه را باز می‌کند. لینک کد برای پروژه‌هایی که مخزن عمومی دارند آمده است.
+**۱۴ پروژهٔ پورتفولیوی من؛ ۱۳ وب‌سایت و یک افزونهٔ مرورگر.** هر کارت تصویر سه‌بعدی متحرک خودش را دارد و پروژه را باز می‌کند. لینک کد برای پروژه‌هایی که مخزن عمومی دارند آمده است.
 
 | <a href="https://pimxagent.pages.dev"><img src="assets/readme/site-PIMX_AGENT.gif" width="400" height="280" alt="PIMX AGENT — animated 3D scene" /></a><br>**PIMX AGENT**<br><sub>آشنایی با PIMX Agent، قابلیت‌ها و فضای کاری آن.</sub><br><a href="https://pimxagent.pages.dev">🌐 ورود به سایت</a> · <a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_AGENT">💻 سورس</a> | <a href="https://pimxmorph.pages.dev"><img src="assets/readme/art-20261017-PIMX_MORPH.gif" width="400" height="280" alt="PIMX MORPH: original animated 3D illustration" /></a><br>**PIMX MORPH**<br><sub>فایل‌ها را محلی تبدیل کن، خروجی‌ها را در کتابخانه نگه دار و ابزارها را برای آفلاین ذخیره کن.</sub><br><a href="https://pimxmorph.pages.dev">🌐 ورود به سایت</a> · <a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_MORPH">💻 سورس</a> |
 |:---:|:---:|
@@ -46,7 +46,7 @@
 | <a href="https://pimxwide.pages.dev"><img src="assets/readme/art-20261017-PIMX_WIDE.gif" width="400" height="280" alt="PIMX WIDE: original animated 3D illustration" /></a><br>**PIMX WIDE**<br><sub>متن، فایل و پوشه را رمزگذاری کن؛ بسته‌ها را در صندوق محلی نگه دار و پشتیبان رمزگذاری‌شده بساز.</sub><br><a href="https://pimxwide.pages.dev">🌐 ورود به سایت</a> · <a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_WIDE">💻 سورس</a> | <a href="https://pimxeltex.pages.dev"><img src="assets/readme/site-PIMX_ELTEX.gif" width="400" height="280" alt="PIMX ELTEX — animated 3D scene" /></a><br>**PIMX ELTEX**<br><sub>کاوش ویدئوهای هوش مصنوعی، پرامپت‌ها و پروژه‌های ساخت سایت.</sub><br><a href="https://pimxeltex.pages.dev">🌐 ورود به سایت</a> · <a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_ELTEX">💻 سورس</a> · <a href="https://pimx-eltex.mohammadrezaabedinpoor6.workers.dev">Workers</a> |
 | <a href="https://pimx-weather.pages.dev"><img src="assets/readme/site-PIMX_WEATHER.gif" width="400" height="280" alt="PIMX WEATHER — animated 3D scene" /></a><br>**PIMX WEATHER**<br><sub>داشبورد تصویری آب‌وهوا، پیش‌بینی و نماهای آسمان.</sub><br><a href="https://pimx-weather.pages.dev">🌐 ورود به سایت</a> · <a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_WEATHER">💻 سورس</a> | <a href="https://pimxpassdns.pages.dev"><img src="assets/readme/art-20261017-PIMX_PASS_DNS.gif" width="400" height="280" alt="PIMX PASS DNS: original animated 3D illustration" /></a><br>**PIMX PASS / DNS**<br><sub>پاسخ واقعی DoH را روی اینترنت خودت مقایسه کن، نتایج را نگه دار و راهنمای تنظیم دستگاه را ببین.</sub><br><a href="https://pimxpassdns.pages.dev">🌐 ورود به سایت</a> · <a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_PASS_DNS">💻 سورس</a> |
 | <a href="https://pimxportal.pages.dev"><img src="assets/readme/site-PIMX_PORTAL.gif" width="400" height="280" alt="PIMX PORTAL — animated 3D scene" /></a><br>**PIMX PORTAL**<br><sub>کشف ابزارهای آنلاین PIMX از یک راهنمای مشترک.</sub><br><a href="https://pimxportal.pages.dev">🌐 ورود به سایت</a> · <a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_PORTAL">💻 سورس</a> | <a href="https://pimxfail.pages.dev"><img src="assets/readme/site-PIMX_FAIL.gif" width="400" height="280" alt="PIMX FAIL — animated 3D scene" /></a><br>**PIMX FAIL**<br><sub>مرور داستان استارتاپ‌ها، درس‌های شکست و طرح‌های فنی.</sub><br><a href="https://pimxfail.pages.dev">🌐 ورود به سایت</a> · <a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_FAIL">💻 سورس</a> |
-| <a href="https://soheileghtesadiportal.pages.dev"><img src="assets/readme/site-soheileghtesadiportal.gif" width="400" height="280" alt="SOHEIL / LINKS — animated 3D scene" /></a><br>**SOHEIL / LINKS**<br><sub>درگاه دو زبانهٔ لینک‌ها و کانال‌های اجتماعی سهیل.</sub><br><a href="https://soheileghtesadiportal.pages.dev">🌐 ورود به سایت</a> |  |
+| <a href="https://soheileghtesadiportal.pages.dev"><img src="assets/readme/site-soheileghtesadiportal.gif" width="400" height="280" alt="SOHEIL / LINKS — animated 3D scene" /></a><br>**SOHEIL / LINKS**<br><sub>درگاه دو زبانهٔ لینک‌ها و کانال‌های اجتماعی سهیل.</sub><br><a href="https://soheileghtesadiportal.pages.dev">🌐 ورود به سایت</a> |<a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_VOICE"><img src="assets/readme/voice-PIMX_VOICE.gif" width="400" height="280" alt="PIMXVOICE — animated 3D waveform and bilingual subtitle scene" /></a><br>**PIMXVOICE**<br><sub>دوبلهٔ زنده و زیرنویس دوزبانه با Gemini؛ انتخاب صدا، ظاهر دلخواه و مدیریت چند کلید API.</sub><br><a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_VOICE/releases/latest">دانلود افزونه</a> · <a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_VOICE">GitHub</a> |
 
 ### ⌨️ PIMX SWAP — دانلود و نصب روی ویندوز
 
@@ -95,6 +95,7 @@
 
 | پروژه | کاربرد |
 |:---|:---|
+| [PIMXVOICE](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_VOICE) | دوبلهٔ زنده و زیرنویس دوزبانه با Gemini؛ انتخاب صدا، ظاهر دلخواه و مدیریت چند کلید API. |
 | 🌌 [PIMX PORTFOLIO](https://github.com/MOHAMMADREZAABEDINPOOR/pimxportfolio) | نمایشگاه شخصی پروژه‌ها به ده زبان با سه‌بعدی اختصاصی، رزومه و گواهی‌ها. |
 | 🤖 [PIMX AGENT BOT](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_AGENT_BOT) | ربات و Mini App تلگرام با هوش مصنوعی چندارائه‌دهنده، حافظه، پاسخ زنده و آرشیو قابل انتقال. |
 | 🧠 [PIMX AGENT](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_AGENT) | فضای کاری هوش مصنوعی برای گفتگو، پژوهش و کار با اسناد. |

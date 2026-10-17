@@ -15,7 +15,7 @@
 
 I create **PIMX**: independent tools for **AI, the web, Windows and Telegram**. A mistyped sentence, a file that needs converting, a research workflow or a satellite orbit can all become the starting point for a project. I care about useful software with a visual identity of its own.
 
-![PIMX project collection: 31 current projects, 60 public repositories and English/Persian documentation](assets/readme/profile-status.svg)
+![PIMX project collection: 32 current projects, 61 public repositories and English/Persian documentation](assets/readme/profile-status.svg)
 
 ## 🌌 Three directions. One ecosystem.
 
@@ -35,7 +35,7 @@ Three projects, three identities. Complete English and Persian guides, with a de
 
 ## ✨ Featured projects
 
-**13 websites from my portfolio.** Each card has its own animated 3D illustration and opens the project. Source links are included where public.
+**14 projects from my portfolio: 13 websites and one browser extension.** Each card has its own animated 3D illustration and opens the project. Source links are included where public.
 
 | <a href="https://pimxagent.pages.dev"><img src="assets/readme/site-PIMX_AGENT.gif" width="400" height="280" alt="PIMX AGENT — animated 3D scene" /></a><br>**PIMX AGENT**<br><sub>Explore PIMX Agent, its capabilities and the workspace.</sub><br><a href="https://pimxagent.pages.dev">🌐 Open website</a> · <a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_AGENT">💻 Source</a> | <a href="https://pimxmorph.pages.dev"><img src="assets/readme/art-20261017-PIMX_MORPH.gif" width="400" height="280" alt="PIMX MORPH: original animated 3D illustration" /></a><br>**PIMX MORPH**<br><sub>Convert files locally, keep finished outputs in your library and save tools for offline use.</sub><br><a href="https://pimxmorph.pages.dev">🌐 Open website</a> · <a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_MORPH">💻 Source</a> |
 |:---:|:---:|
@@ -44,7 +44,7 @@ Three projects, three identities. Complete English and Persian guides, with a de
 | <a href="https://pimxwide.pages.dev"><img src="assets/readme/art-20261017-PIMX_WIDE.gif" width="400" height="280" alt="PIMX WIDE: original animated 3D illustration" /></a><br>**PIMX WIDE**<br><sub>Encrypt text, files and folders; keep packages in a local vault and create encrypted backups.</sub><br><a href="https://pimxwide.pages.dev">🌐 Open website</a> · <a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_WIDE">💻 Source</a> | <a href="https://pimxeltex.pages.dev"><img src="assets/readme/site-PIMX_ELTEX.gif" width="400" height="280" alt="PIMX ELTEX — animated 3D scene" /></a><br>**PIMX ELTEX**<br><sub>Explore AI videos, prompts and website-building projects.</sub><br><a href="https://pimxeltex.pages.dev">🌐 Open website</a> · <a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_ELTEX">💻 Source</a> · <a href="https://pimx-eltex.mohammadrezaabedinpoor6.workers.dev">Workers</a> |
 | <a href="https://pimx-weather.pages.dev"><img src="assets/readme/site-PIMX_WEATHER.gif" width="400" height="280" alt="PIMX WEATHER — animated 3D scene" /></a><br>**PIMX WEATHER**<br><sub>A visual weather dashboard with forecasts and sky views.</sub><br><a href="https://pimx-weather.pages.dev">🌐 Open website</a> · <a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_WEATHER">💻 Source</a> | <a href="https://pimxpassdns.pages.dev"><img src="assets/readme/art-20261017-PIMX_PASS_DNS.gif" width="400" height="280" alt="PIMX PASS DNS: original animated 3D illustration" /></a><br>**PIMX PASS / DNS**<br><sub>Compare real DoH responses on your connection; save results and follow device setup guides.</sub><br><a href="https://pimxpassdns.pages.dev">🌐 Open website</a> · <a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_PASS_DNS">💻 Source</a> |
 | <a href="https://pimxportal.pages.dev"><img src="assets/readme/site-PIMX_PORTAL.gif" width="400" height="280" alt="PIMX PORTAL — animated 3D scene" /></a><br>**PIMX PORTAL**<br><sub>Discover live PIMX tools from one ecosystem navigator.</sub><br><a href="https://pimxportal.pages.dev">🌐 Open website</a> · <a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_PORTAL">💻 Source</a> | <a href="https://pimxfail.pages.dev"><img src="assets/readme/site-PIMX_FAIL.gif" width="400" height="280" alt="PIMX FAIL — animated 3D scene" /></a><br>**PIMX FAIL**<br><sub>Browse startup stories, failure lessons and technical blueprints.</sub><br><a href="https://pimxfail.pages.dev">🌐 Open website</a> · <a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_FAIL">💻 Source</a> |
-| <a href="https://soheileghtesadiportal.pages.dev"><img src="assets/readme/site-soheileghtesadiportal.gif" width="400" height="280" alt="SOHEIL / LINKS — animated 3D scene" /></a><br>**SOHEIL / LINKS**<br><sub>A bilingual link hub for Soheil’s social channels.</sub><br><a href="https://soheileghtesadiportal.pages.dev">🌐 Open website</a> |  |
+| <a href="https://soheileghtesadiportal.pages.dev"><img src="assets/readme/site-soheileghtesadiportal.gif" width="400" height="280" alt="SOHEIL / LINKS — animated 3D scene" /></a><br>**SOHEIL / LINKS**<br><sub>A bilingual link hub for Soheil’s social channels.</sub><br><a href="https://soheileghtesadiportal.pages.dev">🌐 Open website</a> |<a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_VOICE"><img src="assets/readme/voice-PIMX_VOICE.gif" width="400" height="280" alt="PIMXVOICE — animated 3D waveform and bilingual subtitle scene" /></a><br>**PIMXVOICE**<br><sub>Live Gemini dubbing and bilingual subtitles, preset voices, custom styling and multi-key failover.</sub><br><a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_VOICE/releases/latest">Download extension</a> · <a href="https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_VOICE">GitHub</a> |
 
 ### ⌨️ PIMX SWAP — install it on Windows
 
@@ -93,6 +93,7 @@ Published projects from my current workspace. Each repository has an English gui
 
 | Project | What it does |
 |:---|:---|
+| [PIMXVOICE](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_VOICE) | Live Gemini dubbing and bilingual subtitles, preset voices, custom styling and multi-key failover. |
 | 🌌 [PIMX PORTFOLIO](https://github.com/MOHAMMADREZAABEDINPOOR/pimxportfolio) | A ten-language personal project exhibition with dedicated 3D artwork, CV and credentials. |
 | 🤖 [PIMX AGENT BOT](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_AGENT_BOT) | Telegram bot and Mini App with multi-provider AI, memory, streaming and portable archives. |
 | 🧠 [PIMX AGENT](https://github.com/MOHAMMADREZAABEDINPOOR/PIMX_AGENT) | An AI workspace for conversations, research and document workflows. |
